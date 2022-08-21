@@ -10,6 +10,12 @@ body{
     padding: 0;
 }
 
+#wholePage{
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 nav ul{
     display: flex;
     align-items: center;
